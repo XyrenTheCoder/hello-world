@@ -1,1 +1,1 @@
-string("hello world")
+println("hello world")
